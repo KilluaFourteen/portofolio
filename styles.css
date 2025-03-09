@@ -7,7 +7,7 @@
 
 body {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-                url('https://i.supa.codes/YOorw') center/cover fixed;
+                url('https://files.catbox.moe/grfvcp.jpg') center/cover fixed;
     color: #fff;
     min-height: 100vh;
     padding: 20px;
@@ -38,13 +38,13 @@ body::after {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 3px solid #add8e6;
+    border: 3px solid #00008b;
     margin-bottom: 15px;
     box-shadow: 0 0 20px rgba(255,105,180,0.3);
 }
 
 .header-text {
-    color: #00008b;
+    color: #ffff;
     font-size: 2.2em;
     text-shadow: 0 0 10px rgba(255,105,180,0.3);
 }
@@ -136,4 +136,4 @@ body::after {
     max-width: 400px;
     margin-left: auto;
     margin-right: auto;
-}
+    }
